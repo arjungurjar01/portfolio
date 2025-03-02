@@ -49,7 +49,7 @@ function Hero() {
         </div>
         {/* photo */}
         <div className="w-full lg:w-1/2  lg:p-4 ">
-          <div className="flex justify-center lg:w-full ml-10  ">
+          <div className="flex justify-center lg:w-full lg:ml-10   ">
             <motion.div
               initial={{ x: 100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}

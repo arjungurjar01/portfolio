@@ -1,7 +1,7 @@
 import React from "react";
 import { FaGithub } from "react-icons/fa";
 import { IoLogoLinkedin } from "react-icons/io5";
-import { Link } from "react-router-dom";
+
 function NavBar() {
   return (
     <nav className=" px-4 mb-12 flex items-center justify-between py-6 ">
@@ -13,7 +13,7 @@ function NavBar() {
           href="/arjun_resume.pdf"
           download='Arjun_Gurjar.pdf'
         >
-          <button className="px-3 py-1 bg-[#9D98E6] text-black rounded-md hover:bg-[#837ec9] cursor-pointer transition-shadow">
+          <button className="px-2 w-20 lg:w-full py-1 text-[8px] lg:text-sm bg-[#9D98E6] text-black rounded-md hover:bg-[#837ec9] cursor-pointer transition-shadow">
             Download CV
           </button>
         </a>
