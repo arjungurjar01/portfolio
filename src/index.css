@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Prata&display=swap');
+
+@import "tailwindcss";
+
+:root{
+  font-family: 'inter' , sans-serif;
+}
+
+input:-webkit-autofill {
+  background-color: transparent !important;
+  -webkit-text-fill-color: white !important;
+  -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+
+
+
+/* Autofill in light mode */
+.light input:-webkit-autofill {
+  -webkit-text-fill-color: black !important;  /* Ensures black text in light mode */
+}
