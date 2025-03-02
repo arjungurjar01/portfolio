@@ -27,7 +27,7 @@ export const PROJECTS = [
   {
     title: "Todo App",
     code:'https://github.com/arjungurjar01/todo-mern',
-    link:'https://react-ecommerce-preview.vercel.app/',
+    link:'https://github.com/arjungurjar01/todo-mern',
     image: project3,
     description:
       "Todo App is a full-stack Todo management application built using the MERN stack (MongoDB, Express, React, Node.js). It provides a simple yet efficient way to create, update, delete, and manage tasks while fetching real-time to-dos from an API server.",
@@ -36,10 +36,10 @@ export const PROJECTS = [
   {
     title: "React Minis",
     code:'https://github.com/arjungurjar01/react-minis',
-    link:'https://react-ecommerce-preview.vercel.app/',
+    link:'https://react-minis.vercel.app/',
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "React Mini Projects is a collection of small, reusable, and interactive React components designed to enhance frontend development skills. This project includes a variety of mini projects and UI components like carousels, progress bars and more.",
     technologies: ["React.js","Tailwind CSS"],
   },
 ];
