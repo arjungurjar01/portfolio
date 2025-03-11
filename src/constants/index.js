@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 
-export const HERO_CONTENT = `Welcome to my personal portfolio website! I am Arjun Gurjar, a passionate Frontend Engineer and MERN Stack Developer dedicated to building scalable, user-friendly web applications.`;
+export const HERO_CONTENT = `Welcome to my personal portfolio website! I am Arjun Gurjar, a passionate Frontend Engineer dedicated to building scalable, user-friendly web applications.`;
 
 export const PROJECTS = [
   {

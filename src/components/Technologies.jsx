@@ -24,8 +24,7 @@ function Technologies() {
           <h2 className="text-3xl md:text-4xl font-bold mb-2">My Skills</h2>
           <div className="w-20 h-1 bg-[#9D98E6] mx-auto mb-20 lg:mb-10 "></div>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            I've developed expertise in various frontend technologies and tools.
-            Here's a breakdown of my technical skills and proficiency levels.
+          I have worked with different frontend technologies and tools. Here are my key skills.
           </p>
        
         <div className='flex flex-wrap items-center justify-center mt-8 gap-4'>

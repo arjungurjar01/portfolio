@@ -12,9 +12,9 @@ function Footer({homeRef,aboutRef,projectRef}) {
     <div className="border-b border-neutral-900 bg-[#9D98E6] text-black w-full py-4 h-64 ">
       <div className="flex flex-col items-center gap-8 mt-14">
         <div className="flex gap-4 font-medium">
-          <h3 onClick={() => scrollToSection(homeRef)}>Home</h3>
-          <h3 onClick={() => scrollToSection(aboutRef)}>About</h3>
-          <h3 onClick={() => scrollToSection(projectRef)}>Projects</h3>
+          <h3 className="cursor-pointer" onClick={() => scrollToSection(homeRef)}>Home</h3>
+          <h3 className="cursor-pointer" onClick={() => scrollToSection(aboutRef)}>About</h3>
+          <h3 className="cursor-pointer" onClick={() => scrollToSection(projectRef)}>Projects</h3>
         </div>
 
         <div className="flex gap-4 text-2xl ">

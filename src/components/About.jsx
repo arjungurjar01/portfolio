@@ -8,15 +8,16 @@ function About() {
 
         <div className="max-w-3xl mx-auto text-center my-14 ">
         <p className="text-md">
-        Hi, I'm Arjun Gurjar, a passionate Frontend Developer with expertise in React.js, JavaScript, Tailwind CSS, and modern web technologies. I love building scalable, user-friendly, and high-performance applications that enhance user experience.
-        </p>
+        I am a frontend developer with over a year of experience, building dynamic and user-friendly web applications.
+        I have worked on diverse projects like e-commerce platform, task management tool, and scheduling app, ensuring a seamless user experience.
+                </p>
         <p className="text-md mt-4">
-        With over a year of experience, I have worked on diverse projects, including e-commerce platforms, task management tools, and scheduling apps, ensuring clean, maintainable, and efficient code. I also have hands-on experience in full-stack development with the MERN stack, enabling me to integrate frontend and backend seamlessly.
-        </p>
+        While my expertise lies in frontend development, I also have a basic understanding of backend development with Node.js and the MERN stack, allowing me to integrate frontend and backend server.</p>
         <p className=" text-md mt-4">
-          I am always eager to learn, explore new technologies, and contribute to impactful projects. 
-          Let's connect and build something amazing together! 🚀
+        If you're looking for a skilled frontend engineer who writes clean, efficient, and user-friendly code.  
         </p>
+      <p className='font-semibold'>  — hire me! 🚀</p>
+       
         </div>
 </div>
   )
